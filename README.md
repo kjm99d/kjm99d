@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 
 ## ✍️Tech Stack
 
+### Most
+
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=5C2D91&logoColor=white"/>
+</br>
+<img src="https://img.shields.io/badge/JAVA-FF8800?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 ### Language
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
