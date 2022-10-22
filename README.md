@@ -34,22 +34,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/OpenGL-00599C?style=for-the-badge&logo=opengl&logoColor=white"/>
 <img src="https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=5C2D91&logoColor=white"/>
 <img src="https://img.shields.io/badge/ImGui-5C2D91?style=for-the-badge&logo=5C2D91&logoColor=white"/>
-
+</br>
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
+</br>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+</br>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-
-
+</br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
