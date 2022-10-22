@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjm99d)]
-
-
 <div align="center">
+
+![Jungmin's github stats](https://github-readme-stats.vercel.app/api?username=kjm99d&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjm99d&show_icons=true&theme=tokyonight)
+
+
 
 ## ✍️Tech Stack
 
