@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🏢 Work Experience
 - **LitBig** (2021.02 - 2022.09) 
-   - **C/C++ Core Developer** / Vision Algorithm
+   - **C/C++ Core Developer / Vision Algorithm**
    - Windows/Linux Cross Platform Simulation System
    - Edge Detect & Feature Mapping
    - ChessBoard Auto Calibration
@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
    - Windows User Mode Filter Driver
  
 - **AhnLab** (2023.04 ~ ing)
-   - **C/C++ Core R&D Division/Cognitive Technology Team**
+   - **C/C++ Core R&D Division / Cognitive Technology Team**
    - User/Kernel Mode Filter Driver
    - Windows Device Driver
    - Windows Kernel Filter Driver
