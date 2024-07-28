@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## 🏢 Work Experience
-- **LitBig** (2021.02 - 2022.09) / Vision Algorithm
-   - **C/C++ Core Developer**
+- **LitBig** (2021.02 - 2022.09) 
+   - **C/C++ Core Developer** / Vision Algorithm
    - Windows/Linux Cross Platform Simulation System
    - Edge Detect & Feature Mapping
    - ChessBoard Auto Calibration
