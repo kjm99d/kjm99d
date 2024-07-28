@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
    - Windows/Linux Cross Platform Simulation System
    - Edge Detect & Feature Mapping
    - ChessBoard Auto Calibration
+   - Digital Matrix Display(DMD HeadLamp) Algorithm
    - OpenGL/ImGui
 
 - **Softcamp** (2022.09 ~ 2023.03)
